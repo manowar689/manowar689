@@ -4,5 +4,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Docker
+- 🔭 I’m currently working on Docker, Kubernetes and Vagrant
 - 🌱 I’m currently learning about AWS and AWS services
